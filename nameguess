@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>Guess your name!</title>
+</head>
+<body>
+<script>
+  alert("Hello! Today I will be guessing your name using magic.");
+ 
+  var letterCount = prompt("Firstly, my name is bot. There are 3 letters in my name. How many letters are in your name?);
+  if (letterCount >
+ 
+  
