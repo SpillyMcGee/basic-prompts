@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>New</title>
+</head>
+<body>   
+   <script>
+     var favFlavor = prompt("What is your favorite flavor of ice cream?");
+    if (favFlavor = "vanilla") {
+      alert("I hate vanilla!");
+     } else {
+     alert("I love " + favFlavor + " too!");
+      }
+  </script>
+</body>
+</html>
