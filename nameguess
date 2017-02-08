@@ -8,6 +8,10 @@
   alert("Hello! Today I will be guessing your name using magic.");
  
   var letterCount = prompt("Firstly, my name is bot. There are 3 letters in my name. How many letters are in your name?);
-  if (letterCount >
+  if (letterCount > 10) {
+    alert("Ha, nice try, I know your name isn't that long!)
+</script>
+</body>
+</html>
  
   
